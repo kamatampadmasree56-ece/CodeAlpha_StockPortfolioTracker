@@ -1,0 +1,8 @@
+STOCK PORTFOLIO REPORT
+==============================
+AAPL x 5 = $1100
+TSLA x 4 = $1240
+MSFT x 6 = $2820
+AMZN x 5 = $1175
+------------------------------
+Total Portfolio Value = $6335
